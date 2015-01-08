@@ -25,8 +25,6 @@ bool Jeu::jouable(Coord C, int Couleur)
     Coord Gauche(x-1,y);
     Coord Droite(x+1,y);
     
-	//comment
-    
     cout<<"a"<<endl;
     
     if(estVivant(C,nouvPlat)) return true;
@@ -458,4 +456,9 @@ void Jeu::choixpris()//a faire avant de calculer le score
     }
     
             
+}
+
+Jeu::Jeu (int _taille)
+{
+	P=new Plateau(_taille);
 }

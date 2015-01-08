@@ -18,6 +18,8 @@
 
 class Jeu {
 public:
+	Jeu(){};
+	Jeu(int _taille);
     void rafraichir(Plateau* plat, Coord LastC);
     bool jouable(Coord C, int Couleur);
     void run();
