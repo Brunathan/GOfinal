@@ -1,16 +1,14 @@
-﻿La génération a démarré 08/01/2015 10:52:49.
-     1>Projet "Z:\GO\Test\Test.vcxproj" sur le nœud 2 (Rebuild cible(s)).
+﻿La génération a démarré 08/01/2015 11:11:46.
+     1>Projet "Z:\GO\GOfinal\Test\Test.vcxproj" sur le nœud 2 (Build cible(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"Z:\Program Files\GoogleTest\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VARIADIC_MAX=10 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp Test.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"Z:\Program Files\GoogleTest\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VARIADIC_MAX=10 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
          Test.cpp
-         stdafx.cpp
-         Génération de code en cours...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\GO\GO-VS\Debug\Test.exe" /INCREMENTAL /NOLOGO /LIBPATH:"Z:\Program Files\GoogleTest\lib" /LIBPATH:"Z:\GO\GO-VS\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib gtestd.lib "gtest_main-mdd.lib" BrunathanGO.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\GO\GO-VS\Debug\Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\GO\GO-VS\Debug\Test.lib" /MACHINE:X86 Debug\stdafx.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\GO\GOfinal\GO-VS\Debug\Test.exe" /INCREMENTAL /NOLOGO /LIBPATH:"Z:\Program Files\GoogleTest\lib" /LIBPATH:"Z:\GO\GOfinal\GO-VS\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib gtestd.lib "gtest_main-mdd.lib" BrunathanGO.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\GO\GOfinal\GO-VS\Debug\Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\GO\GOfinal\GO-VS\Debug\Test.lib" /MACHINE:X86 Debug\stdafx.obj
          Debug\Test.obj
-         Test.vcxproj -> Z:\GO\GO-VS\Debug\Test.exe
-     1>Génération du projet "Z:\GO\Test\Test.vcxproj" terminée (Rebuild cible(s)).
+         Test.vcxproj -> Z:\GO\GOfinal\GO-VS\Debug\Test.exe
+     1>Génération du projet "Z:\GO\GOfinal\Test\Test.vcxproj" terminée (Build cible(s)).
 
 La génération a réussi.
 
-Temps écoulé 00:00:01.24
+Temps écoulé 00:00:01.30
